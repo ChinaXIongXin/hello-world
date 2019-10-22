@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+Hi XiongXin
+
+I hope you can learn about something useful
